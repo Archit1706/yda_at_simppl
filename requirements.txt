@@ -6,3 +6,4 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 dash-mantine-components==0.12.1
 plotly-express==0.4.1
+gunicorn
